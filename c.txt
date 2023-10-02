@@ -1,1 +1,3 @@
-Documento C
+Alterando este documento 
+para ser sincronizado no VS Code
+através do comando git pull
